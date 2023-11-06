@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jorge16lp/DPIU_frontend/static/css/main.f68f33a1.css",
-    "main.js": "/jorge16lp/DPIU_frontend/static/js/main.105fa101.js",
-    "index.html": "/jorge16lp/DPIU_frontend/index.html",
-    "main.f68f33a1.css.map": "/jorge16lp/DPIU_frontend/static/css/main.f68f33a1.css.map",
-    "main.105fa101.js.map": "/jorge16lp/DPIU_frontend/static/js/main.105fa101.js.map"
+    "main.css": "/DPIU_frontend/static/css/main.f68f33a1.css",
+    "main.js": "/DPIU_frontend/static/js/main.f3127f3e.js",
+    "index.html": "/DPIU_frontend/index.html",
+    "main.f68f33a1.css.map": "/DPIU_frontend/static/css/main.f68f33a1.css.map",
+    "main.f3127f3e.js.map": "/DPIU_frontend/static/js/main.f3127f3e.js.map"
   },
   "entrypoints": [
     "static/css/main.f68f33a1.css",
-    "static/js/main.105fa101.js"
+    "static/js/main.f3127f3e.js"
   ]
 }
