@@ -1,0 +1,12 @@
+.card {
+    border: 0.1rem solid #cecece;
+    transition: border 0.3s;
+}
+
+.card:hover {
+    border: 0.1rem solid #7171ff;
+}
+
+.Avatar:hover {
+    cursor: pointer;
+}
