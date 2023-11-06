@@ -24,7 +24,7 @@ let LoginFormComponent = (props) => {
     let clickLogin = async () => {
         console.log(process.env.REACT_APP_BACKEND_BASE_URL)
         let response = await fetch(
-            process.env.REACT_APP_BACKEND_BASE_URL + "/users/login", {
+            "https://dpiu-backend.onrender.com/" + "/users/login", {
                 method: "POST",
                 headers: {"Content-Type": "application/json "},
                 body: JSON.stringify(formData)
