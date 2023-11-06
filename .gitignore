@@ -1,0 +1,52 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+EjemplosJS/
+Plantilla Validaci\303\263n.xlsx
+backupDatabase_antiguo.sql
+backupDatabase.sql
+Pr\303\241ctica 1.docx
+Informe.docx
+Documento de ayuda adicional.docx
+miguel_v2/
+guiones/
+presentaciones/
+wallapep_backEnd/
+wallapep_backEnd_v2/.idea/
+wallapep_backEnd_v2/app.js
+wallapep_backEnd_v2/app/
+wallapep_backEnd_v2/package-lock.json
+wallapep_backEnd_v2/package.json
+wallapep_backEnd_v2/public/
+wallapep_frontEnd_ampli_final/
+wallapep_frontEnd_ampli_v1_1-3/
+wallapep_frontEnd_ampli_v2_4-5/
+wallapep_frontEnd_ampli_v3_6-7/
+wallapep_frontEnd_ampli_v4_8-9/
+.idea/inspectionProfiles/
+.idea/workspace.xml
+wallapep_frontEnd_base/
+wallapep_frontEnd_final/
+wallapep_frontEnd_v0/
+wallapep_frontEnd_v1/
+wallapep_frontEnd_v2/
